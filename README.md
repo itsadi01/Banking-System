@@ -5,7 +5,7 @@ This is a Banking web-app I created as a part of my Engineering project.
 ## Features
 <li> Create new account and get a unique account number on sign-in.
 <li> Store and edit your details.
-<li> Transfer (fictitious) money from one bank account to another.
+<li> Transfer money from one bank account to another.
 
 
 ## Prerequisites
@@ -29,7 +29,6 @@ This is a Banking web-app I created as a part of my Engineering project.
     ```
     If that didn't work, try replacing `python` by `python3` in the above command.
 
-4. Follow the <a href="#demo">Demo</a> section and use the app as you like.
 
 ### Disclaimer
 This app represents a  fictitious bank. All transactions, account numbers and account holdings are unreal.
