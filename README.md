@@ -1,13 +1,11 @@
 # CentralBank
 
-This is a Banking web-app I created as a part of my Engineering curriculum.
+This is a Banking web-app I created as a part of my Engineering project.
 
 ## Features
 <li> Create new account and get a unique account number on sign-in.
 <li> Store and edit your details.
 <li> Transfer (fictitious) money from one bank account to another.
-
-## Demo
 
 
 ## Prerequisites
